@@ -5,7 +5,7 @@ The structures are representative, therefore the distances of the reaction coord
 
 The structures were obtained from the following coordinates:
 
-![](https://github.com/albertomds/petaseMechanism/assets/37826818/7a53b854-ce56-4efa-889a-cb2d621d856a | width=100)
+<img src="[https://your-image-url.type](https://github.com/albertomds/petaseMechanism/assets/37826818/7a53b854-ce56-4efa-889a-cb2d621d856a)" width="100">
 
 Free energy surface (FES) at AM1/d-PhoT/MM potential for mechanism of reaction involving PETase. The Acylation is described by two steps: a) Step 1, where the formation of tetrahedral intermediate (TI1) is observed and b) Step 2, where the formation of MHET (INT2) is observed. Contour interval of 2 kcal/mol.
 
